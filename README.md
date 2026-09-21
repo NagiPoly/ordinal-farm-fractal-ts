@@ -14,4 +14,4 @@ This is an Ordinal/NFT marketplace operating on the Fractal Bitcoin network, whe
 - [License](#license) 
 
 ### Contact Info
-For further technical support or development assistance, please contact me [Telegram](https://t.me/soulcrancerdev)
+For further technical support or development assistance, please contact me [Telegram](https://t.me/nagi_777x)
